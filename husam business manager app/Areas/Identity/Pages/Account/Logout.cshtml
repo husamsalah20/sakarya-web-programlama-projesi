@@ -1,0 +1,22 @@
+﻿@page
+@using InventoryBeginners.Models
+@model LogoutModel
+@{
+    ViewData["Title"] = "Log out";
+}
+@inject LanguageService language
+<header>
+    <h1>@language.Getkey("Log out")</h1>
+    @{
+        if (User.Identity.IsAuthenticated)
+        {
+            <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
+                <button type="submit" class="nav-link btn btn-link text-dark"> @language.Getkey("Click here to Logout") </button>
+            </form>
+        }
+        else
+        {
+            <p>@language.Getkey("You have successfully logged out of the application.")</p>
+        }
+    }
+</header>

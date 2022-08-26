@@ -1,0 +1,39 @@
+﻿@page
+@using InventoryBeginners.Models
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+@inject LanguageService language
+<div class="container IndexDiv">
+    <div class="row">
+        <div class="col-4 container CenteredContainer text-center">
+
+            <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                <h5 class="text-white"> @language.Getkey("Create a new account.") </h5>
+                <hr />
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <div class="form-group">
+                    <input asp-for="Input.UserName" class="form-control" placeholder=@language.Getkey("UserName") />
+                </div>
+
+                <div class="form-group">
+                    <input asp-for="Input.Email" class="form-control" placeholder=@language.Getkey("Email") />
+                </div>
+                <div class="form-group">
+                    <input asp-for="Input.Password" class="form-control" placeholder=@language.Getkey("Password") />
+                </div>
+                <div class="form-group">
+                    <input asp-for="Input.ConfirmPassword" class="form-control" placeholder=@language.Getkey("Confirm Password") />
+                </div>
+                <input type="submit" class="btn btn-danger" value=@language.Getkey("Register")>
+            </form>
+        </div>
+
+    </div>
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
