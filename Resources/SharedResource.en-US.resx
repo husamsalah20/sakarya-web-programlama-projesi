@@ -135,11 +135,20 @@
   <data name="Categories" xml:space="preserve">
     <value>Categories</value>
   </data>
+  <data name="CategoryId" xml:space="preserve">
+    <value>CategoryId</value>
+  </data>
   <data name="Click here to Logout" xml:space="preserve">
     <value>Click here to Logout</value>
   </data>
+  <data name="Code" xml:space="preserve">
+    <value>Code</value>
+  </data>
   <data name="Confirm Password" xml:space="preserve">
     <value>Confirm Password</value>
+  </data>
+  <data name="Cost" xml:space="preserve">
+    <value>Cost</value>
   </data>
   <data name="Create" xml:space="preserve">
     <value>Create</value>
@@ -155,6 +164,9 @@
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Delete</value>
+  </data>
+  <data name="description" xml:space="preserve">
+    <value>description</value>
   </data>
   <data name="Details" xml:space="preserve">
     <value>Details</value>
@@ -219,6 +231,9 @@
   <data name="Logout" xml:space="preserve">
     <value>Logout</value>
   </data>
+  <data name="Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
   <data name="Next" xml:space="preserve">
     <value>Next</value>
   </data>
@@ -228,11 +243,17 @@
   <data name="Password" xml:space="preserve">
     <value>Password</value>
   </data>
+  <data name="PhotoUrl" xml:space="preserve">
+    <value>PhotoUrl</value>
+  </data>
   <data name="Please choose image" xml:space="preserve">
     <value>Please choose image</value>
   </data>
   <data name="Previous" xml:space="preserve">
     <value>Previous</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>Price</value>
   </data>
   <data name="Privacy" xml:space="preserve">
     <value>Privacy</value>
@@ -248,6 +269,12 @@
   </data>
   <data name="Product Profiles" xml:space="preserve">
     <value>Product Profiles</value>
+  </data>
+  <data name="ProductGroupId" xml:space="preserve">
+    <value>ProductGroupId</value>
+  </data>
+  <data name="ProductProfileId" xml:space="preserve">
+    <value>ProductProfileId</value>
   </data>
   <data name="Products" xml:space="preserve">
     <value>Products</value>
@@ -287,6 +314,9 @@
   </data>
   <data name="Unit Details" xml:space="preserve">
     <value>Unit Details</value>
+  </data>
+  <data name="UnitId" xml:space="preserve">
+    <value>UnitId</value>
   </data>
   <data name="Units" xml:space="preserve">
     <value>Units</value>

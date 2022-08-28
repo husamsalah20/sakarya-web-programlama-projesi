@@ -126,6 +126,9 @@
   <data name="Back" xml:space="preserve">
     <value>geri</value>
   </data>
+  <data name="BrandId" xml:space="preserve">
+    <value>MarkaID</value>
+  </data>
   <data name="Brands" xml:space="preserve">
     <value>markalar</value>
   </data>
@@ -135,11 +138,20 @@
   <data name="Categories" xml:space="preserve">
     <value>Kategoriler</value>
   </data>
+  <data name="CategoryId" xml:space="preserve">
+    <value>kategorisiID</value>
+  </data>
   <data name="Click here to Logout" xml:space="preserve">
     <value>Çıkış yapmak için buraya tıklayın</value>
   </data>
+  <data name="Code" xml:space="preserve">
+    <value>kod</value>
+  </data>
   <data name="Confirm Password" xml:space="preserve">
     <value>Şifreyi Onayla</value>
+  </data>
+  <data name="Cost" xml:space="preserve">
+    <value>Maliyet</value>
   </data>
   <data name="Create" xml:space="preserve">
     <value>Oluştur</value>
@@ -155,6 +167,9 @@
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Sil</value>
+  </data>
+  <data name="description" xml:space="preserve">
+    <value>tanım</value>
   </data>
   <data name="details" xml:space="preserve">
     <value>detaylar</value>
@@ -219,6 +234,9 @@
   <data name="Logout" xml:space="preserve">
     <value>Çıkış Yap</value>
   </data>
+  <data name="Name" xml:space="preserve">
+    <value>İsim</value>
+  </data>
   <data name="Next" xml:space="preserve">
     <value>Sonraki</value>
   </data>
@@ -228,11 +246,17 @@
   <data name="Password" xml:space="preserve">
     <value>Şifre</value>
   </data>
+  <data name="PhotoUrl" xml:space="preserve">
+    <value>fotograf</value>
+  </data>
   <data name="Please choose image" xml:space="preserve">
     <value>Lütfen resmi seçin</value>
   </data>
   <data name="Previous" xml:space="preserve">
     <value>Öncesi</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>Fiyat</value>
   </data>
   <data name="Privacy" xml:space="preserve">
     <value>gizlilik</value>
@@ -248,6 +272,12 @@
   </data>
   <data name="Product Profiles" xml:space="preserve">
     <value>Ürün Profilleri</value>
+  </data>
+  <data name="ProductGroupId" xml:space="preserve">
+    <value>Ürün Grubu ID</value>
+  </data>
+  <data name="ProductProfileId" xml:space="preserve">
+    <value>Ürün Profili ID</value>
   </data>
   <data name="Products" xml:space="preserve">
     <value>Ürünler</value>
@@ -287,6 +317,9 @@
   </data>
   <data name="Unit Details" xml:space="preserve">
     <value>Ünite Detayları</value>
+  </data>
+  <data name="UnitId" xml:space="preserve">
+    <value>birimID</value>
   </data>
   <data name="Units" xml:space="preserve">
     <value>üniteler</value>

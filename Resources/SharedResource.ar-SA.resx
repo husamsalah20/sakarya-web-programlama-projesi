@@ -126,6 +126,9 @@
   <data name="Back" xml:space="preserve">
     <value>الرجوع</value>
   </data>
+  <data name="BrandId" xml:space="preserve">
+    <value>ماركة</value>
+  </data>
   <data name="Brands" xml:space="preserve">
     <value>العلامات التجارية</value>
   </data>
@@ -135,11 +138,20 @@
   <data name="Categories" xml:space="preserve">
     <value>فئات</value>
   </data>
+  <data name="CategoryId" xml:space="preserve">
+    <value>الفئة</value>
+  </data>
   <data name="Click here to Logout" xml:space="preserve">
     <value>اضغط هنا للتسجيل الخروج</value>
   </data>
+  <data name="Code" xml:space="preserve">
+    <value>رمز</value>
+  </data>
   <data name="Confirm Password" xml:space="preserve">
     <value>تأكيد كلمة المرور</value>
+  </data>
+  <data name="Cost" xml:space="preserve">
+    <value>كلفة</value>
   </data>
   <data name="Create" xml:space="preserve">
     <value>إنشاء</value>
@@ -155,6 +167,9 @@
   </data>
   <data name="Delete" xml:space="preserve">
     <value>حذف</value>
+  </data>
+  <data name="description" xml:space="preserve">
+    <value>وصف</value>
   </data>
   <data name="Details" xml:space="preserve">
     <value>تفاصيل</value>
@@ -196,7 +211,7 @@
     <value>الرئيسية</value>
   </data>
   <data name="Hussam warehouse sys." xml:space="preserve">
-    <value>حسام نايك الأستاذ</value>
+    <value>حسام </value>
   </data>
   <data name="Inventory Manager" xml:space="preserve">
     <value>مدير المخزون</value>
@@ -219,6 +234,9 @@
   <data name="Logout" xml:space="preserve">
     <value>تسجيل خروج</value>
   </data>
+  <data name="Name" xml:space="preserve">
+    <value>اسم</value>
+  </data>
   <data name="Next" xml:space="preserve">
     <value>التالي</value>
   </data>
@@ -228,11 +246,17 @@
   <data name="Password" xml:space="preserve">
     <value>كلمة المرور</value>
   </data>
+  <data name="PhotoUrl" xml:space="preserve">
+    <value>صورة</value>
+  </data>
   <data name="Please choose image" xml:space="preserve">
     <value>الرجاء اختيار الصورة</value>
   </data>
   <data name="Previous" xml:space="preserve">
     <value>سابق</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>سعر</value>
   </data>
   <data name="Privacy" xml:space="preserve">
     <value>خصوصية</value>
@@ -248,6 +272,12 @@
   </data>
   <data name="Product Profiles" xml:space="preserve">
     <value>معلومات المنتجات</value>
+  </data>
+  <data name="ProductGroupId" xml:space="preserve">
+    <value>مجموعة المنتجات</value>
+  </data>
+  <data name="ProductProfileId" xml:space="preserve">
+    <value>ملف تعريف المنتج</value>
   </data>
   <data name="Products" xml:space="preserve">
     <value>منتجات</value>
@@ -287,6 +317,9 @@
   </data>
   <data name="Unit Details" xml:space="preserve">
     <value>تفاصيل الوحدة</value>
+  </data>
+  <data name="UnitId" xml:space="preserve">
+    <value>وحدة</value>
   </data>
   <data name="Units" xml:space="preserve">
     <value>الوحدات</value>
